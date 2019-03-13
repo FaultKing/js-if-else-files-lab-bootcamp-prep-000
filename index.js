@@ -12,3 +12,5 @@ if (name === "Susan") {
 } else {
   console.log("Expecterd the name to be Susan.")
 }
+
+var name = "Susan"
